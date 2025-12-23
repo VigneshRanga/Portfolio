@@ -34,7 +34,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import skillbridge from "./SkillBridge.png";
+import skillbridge from "./skillbridge.png";
 import mediconnect from "./mediconnect.png";
 import videosorting from "./videosorting.png";
 
